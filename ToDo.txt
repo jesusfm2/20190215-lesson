@@ -4,3 +4,4 @@ Converstion functions needed:
 -Gallons to Liters
 -Hours to Minutes
 -Meters to Inches
+-Degrees to radians
